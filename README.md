@@ -22,4 +22,5 @@ python3 lib/__init__.py
 
 use the following vscode extension to see your database tables  
 
-![image](https://github.com/Mosericko/building-orms-python/assets/59916614/50e73470-9aa3-4059-82c2-b3378cd174e5)
+![image](https://github.com/ErickMoseDev/building-orms-python/assets/96709952/67dab947-77aa-41a0-b4ac-969870e0a58d)
+
