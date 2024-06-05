@@ -1,5 +1,5 @@
 # Map a python class to a database table
-Open your teminal and run the following command to create a database connection
+Open your terminal and run the following command to create a database connection
 ```
 python lib/config.py
 ```
